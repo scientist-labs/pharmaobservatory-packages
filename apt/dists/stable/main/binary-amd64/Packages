@@ -1,0 +1,15 @@
+Package: pharma
+Architecture: amd64
+Version: 0.1.0
+Priority: optional
+Maintainer: Pharma Observatory <support@scientist.com>
+Installed-Size: 11009
+Filename: pool/main/pharma_0.1.0_linux_amd64.deb
+Size: 4315516
+MD5sum: 57f54818b89edd6c958aa8e14ef6b7df
+SHA1: 556c0a4f1f63cdd35bc448044cb435d005cedfa6
+SHA256: a29193a04d99423c20bcceee947d1ab6930b577bea854eac9520443adde8f44c
+SHA512: be06e62e25d890e262ee9d0835d565dc2a88c19a87d1d6ef4ffd7edef6504808b13db54076af523eb16263372a77546b060b0edd05befa21b39bb55c432477f9
+Homepage: https://pharmaobservatory.com
+Description: Pharma Observatory command line client
+
