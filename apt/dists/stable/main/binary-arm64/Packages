@@ -28,3 +28,18 @@ SHA512: 0ca5b35b870ab7d471d1975aac50059b2303969ade50d5d156a5b516c1269db719e76899
 Homepage: https://pharmaobservatory.com
 Description: Pharma Observatory command line client
 
+Package: pharma
+Architecture: arm64
+Version: 0.1.2
+Priority: optional
+Maintainer: Pharma Observatory <support@scientist.com>
+Installed-Size: 10244
+Filename: pool/main/pharma_0.1.2_linux_arm64.deb
+Size: 3925632
+MD5sum: 0a52633ab598e2b818c95afa602f5dba
+SHA1: 797f19cfcc8e604eb74e479e85c128169f69dd81
+SHA256: e7f7700f15084b43f0e498f16bf4c0b7749d550b732530526989b715d92c7853
+SHA512: 252f7b2b61a4b40f0b3c6f3c5f9f60d006cbd30df3dae30ceb3c640ff41fd7fbc903702e8487d87fbe3bd3465645fa8be95f868b5997b57332fc5859e2da1943
+Homepage: https://pharmaobservatory.com
+Description: Pharma Observatory command line client
+
